@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-07T12:03:00+03:00","level":"WARNING","source":"server","message":"Медленный запрос"}
+{"timestamp":"2026-10-07T12:04:00+03:00","level":"ERROR","source":"api","message":"Ошибка запроса"}

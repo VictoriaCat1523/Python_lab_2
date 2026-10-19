@@ -1,0 +1,4 @@
+timestamp,level,source,message
+2026-10-07T12:00:00+03:00,INFO,server,Запуск
+2026-10-07T12:01:00+03:00,ERROR,database,Ошибка соединения
+2026-10-07T12:02:00+03:00,CRITICAL,database,База недоступна

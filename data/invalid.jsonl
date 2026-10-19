@@ -1,0 +1,3 @@
+{"timestamp":"2026-10-07T12:00:00Z","level":"INFO","source":"server","message":"Запуск"}
+{"level":"ERROR","source":"api","message":"Ошибка"}
+{"timestamp":"2026-10-07T12:02:00Z","level":"ERROR","source":"database","message":"Нет соединения"}
